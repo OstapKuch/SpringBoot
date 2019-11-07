@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>SpringBootLab5 - Checkstyle report</title>
+    <link>https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05</link>
+    <description>SpringBootLab5 - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2019</copyright>
+    <item>
+      <title>File: 16,
+             Errors: 18,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.ApartmentsHasReservations.java">com/iot/model/ApartmentsHasReservations.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.Reservations.java">com/iot/model/Reservations.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.ApartmentsHasReservationsController.java">com/iot/controller/ApartmentsHasReservationsController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.AirbnbWalletController.java">com/iot/controller/AirbnbWalletController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.Sellers.java">com/iot/model/Sellers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.AirbnbWallet.java">com/iot/model/AirbnbWallet.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.BuyersController.java">com/iot/controller/BuyersController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.SpringBootLab5Application.java">com/iot/SpringBootLab5Application.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.Billings.java">com/iot/model/Billings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.Buyers.java">com/iot/model/Buyers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.BillingsController.java">com/iot/controller/BillingsController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.model.Apartments.java">com/iot/model/Apartments.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.exception.ResourceNotFoundException.java">com/iot/exception/ResourceNotFoundException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.ApartmentsController.java">com/iot/controller/ApartmentsController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.SellersController.java">com/iot/controller/SellersController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/SpringBoot_lab_05/checkstyle.html#com.iot.controller.ReservationsController.java">com/iot/controller/ReservationsController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

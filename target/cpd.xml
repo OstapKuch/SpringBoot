@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="50" tokens="150">
+      <file line="28"
+            path="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Buyers.java"/>
+      <file line="27"
+            path="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Sellers.java"/>
+      <codefragment><![CDATA[    public Buyers(Integer id, String email, String name, String surname, String phoneNumber, Date birthday) {
+        this.id = id;
+        this.email = email;
+        this.name = name;
+        this.surname = surname;
+        this.phoneNumber = phoneNumber;
+        this.birthday = birthday;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public void setSurname(String surname) {
+        this.surname = surname;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
+    }
+
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
+    }
+
+    public Date getBirthday() {]]></codefragment>
+   </duplication>
+</pmd-cpd>

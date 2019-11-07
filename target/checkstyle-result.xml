@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/SpringBootLab5Application.java">
+<error line="6" column="1" severity="error" message="Utility classes should not have a public or default constructor." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="9" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/exception/ResourceNotFoundException.java">
+<error line="1" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="12" column="37" severity="error" message="&apos;(&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Buyers.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Billings.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Sellers.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/AirbnbWallet.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/ApartmentsHasReservations.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Apartments.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/model/Reservations.java">
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/SellersController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/BillingsController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/AirbnbWalletController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/ApartmentsHasReservationsController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/ReservationsController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/BuyersController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/ostap/IdeaProjects/SpringBoot_lab_05/src/main/java/com/iot/controller/ApartmentsController.java">
+<error line="9" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - org.springframework.web.bind.annotation.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+</checkstyle>
