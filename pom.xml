@@ -53,7 +53,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.mypackage.SpringBootLab5Application</mainClass>
+                            <mainClass>com.iot.SpringBootLab5Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
